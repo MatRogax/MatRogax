@@ -1,8 +1,8 @@
 #olá eu sou Matheus Rogato e muitos dos meus amigos me chamam de rogato/rogax.
 
-- 📚 atualmente faço sistmas de informação na instituição (cesmac).
+- 📚 atualmente faço sistemas de informação na instituição (cesmac).
 - 🐍 estou estudando python.
-- 👨‍💻 preetendo ser dev front-end ou dev de jogos.
+- 👨‍💻 pretendo ser dev front-end ou dev de jogos.
 - 🎮 sou extrovertido e gosto bastante de games.
 
 
