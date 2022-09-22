@@ -3,7 +3,6 @@
 - 📚 atualmente faço sistemas de informação na instituição (cesmac).
 - 🐍 estou estudando python.
 - 👨‍💻 pretendo ser front-end ou dev de jogos.
-- 🎮 sou extrovertido e gosto bastante de games.
 
 
 <div align="center">
