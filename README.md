@@ -1,4 +1,5 @@
-#olá eu sou Matheus Rogato e muitos dos meus amigos me chamam de rogato/rogax.
+#olá eu sou Matheus Rogato
+
 
 - 📚 atualmente faço sistemas de informação na instituição (cesmac).
 - 🐍 estou estudando python.
