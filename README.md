@@ -1,6 +1,6 @@
- olá me chamo Matheus rogato
+ olá eu sou matheus rogato e  sou um mero estudante  e futuro desenvolvedor.
  
- um pouco sobre mim:
+E aqui mostra um pouco sobre mim:
 
 - 📚 atualmente faço sistemas de informação na instituição (cesmac).
 - 🐍 estou estudando python.
