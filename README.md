@@ -1,5 +1,6 @@
-
-
+ olá me chamo Matheus rogato
+ 
+ um pouco sobre mim:
 
 - 📚 atualmente faço sistemas de informação na instituição (cesmac).
 - 🐍 estou estudando python.
