@@ -4,7 +4,7 @@ E aqui mostra um pouco sobre mim:
 
 - 📚 atualmente faço sistemas de informação na instituição (cesmac).
 - 🐍 estou estudando python.
-- 👨‍💻 pretendo ser front-end ou dev de jogos.
+- 👨‍💻 pretendo ser desenvolvedor front-end ou dev jogos.
 
 
 <div align="center">
