@@ -29,7 +29,7 @@ E aqui mostra um pouco sobre mim:
  	<a href="https://www.twitch.tv/rogaquiz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-rogato-9854b8233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- <\div>
+ </div>
   
   ![snake animation](https://github.com/MatRogax)
   
