@@ -1,4 +1,4 @@
- olá eu sou matheus rogato e  sou um mero estudante  e futuro desenvolvedor.
+ ### 👋olá eu sou matheus rogato.
  
 E aqui mostra um pouco sobre mim:
 
@@ -6,7 +6,7 @@ E aqui mostra um pouco sobre mim:
 - 🐍 estou estudando python.
 - 👨‍💻 pretendo ser desenvolvedor front-end ou dev de jogos.
 
-
+ ## ⚙️Github Status
 <div align="center">
   <a href="https://github.com/MatRogax">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatRogax&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,7 +20,9 @@ E aqui mostra um pouco sobre mim:
 </div>
   
 ##
-
+ 
+ 
+### Social links
 <div>
   
   <a href="https://instagram.com/matheusrogato_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
