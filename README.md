@@ -31,6 +31,6 @@ E aqui mostra um pouco sobre mim:
  
  
   
-  ![snake animation](https://github.com/MatRogax/MatRogax/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/MatRogax/MatRogax/blob/output/github-contribution-grid-snake.svg)
   
  
