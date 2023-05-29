@@ -9,7 +9,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatRogax&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MatRogax&theme=gotham)
 
 ## :hammer_and_wrench: Languages and Tools
  <div style="display: inline_block"><br>
@@ -20,6 +19,8 @@
     <img align = "center"  alt="MatRogax-css"    height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align = "center"  alt ="MatRogax-Js"    height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align = "center"  alt ="MatRogax-Ruby"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+    
+          
               
 </div>
 
