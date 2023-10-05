@@ -23,16 +23,36 @@
     <img align = "center"  alt="MatRogax-css"    height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align = "center"  alt ="MatRogax-Js"    height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align = "center"  alt ="MatRogax-Ruby"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-    
+    <br>
+    <br>
+
+  #### Main Stack:
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![Ruby](https://img.shields.io/badge/Ruby-0f3342?style=for-the-badge&logo=ruby&logoColor=red)&nbsp;
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+  ![Ruby](https://img.shields.io/badge/SQLite-F7DF1E?style=for-the-badge&logo=sqlite&logoColor=blue)&nbsp;
+
+
+
+  #### Studying in this moment
+  
+  
+  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+  ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![OnRails](https://img.shields.io/badge/-On_Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=red&labelColor=0D1117)&nbsp; 
+  ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=blue&labelColor=0D1117)&nbsp; 
+ 
+
+   
           
               
 </div>
 
- <div><br>
- 
-   <img align = "center" width="500px" height="250px" alt="gif-programing" src ="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-  
- 
+ <div>
+
  </div>
 
 
