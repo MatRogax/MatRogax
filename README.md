@@ -23,10 +23,15 @@
     <img align = "center"  alt="MatRogax-css"    height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align = "center"  alt ="MatRogax-Js"    height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align = "center"  alt ="MatRogax-Ruby"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-    <br>
-    <br>
+   
+ 
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+    
 
   #### Main Stack:
+
+ 
+  
   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -44,6 +49,7 @@
   ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![OnRails](https://img.shields.io/badge/-On_Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=red&labelColor=0D1117)&nbsp; 
   ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=blue&labelColor=0D1117)&nbsp; 
+
  
 
    
@@ -63,6 +69,8 @@
   <a href="https://www.linkedin.com/in/matheus-rogato-9854b8233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  </div>
+ 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22vetoswx52us4tv3i3dtruay&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
   
 
   
