@@ -38,9 +38,8 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![Ruby](https://img.shields.io/badge/Ruby-0f3342?style=for-the-badge&logo=ruby&logoColor=red)&nbsp;
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-  ![Ruby](https://img.shields.io/badge/SQLite-F7DF1E?style=for-the-badge&logo=sqlite&logoColor=blue)&nbsp;
-  ![OnRails](https://img.shields.io/badge/-On_Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=red&labelColor=0D1117)&nbsp; 
-
+  ![sqlite](https://img.shields.io/badge/SQLite-F7DF1E?style=for-the-badge&logo=sqlite&logoColor=blue)&nbsp;
+  
 
 
   #### Studying in this moment
