@@ -16,15 +16,20 @@
 
 ## :hammer_and_wrench: Languages and Tools
  <div style="display: inline_block"><br>
-    <img align = "center"  alt="MatRogax-ADVPL"  height="30" width="30"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png" />
-    <img align = "center"  alt="MatRogax-C#"     height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-    <img align = "center"  alt="MatRogax-Python" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-    <img align = "center"  alt="MatRogax-C"      height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img align = "center"  alt="MatRogax-sql"    height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-    <img align = "center"  alt="MatRogax-html"   height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align = "center"  alt="MatRogax-css"    height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align = "center"  alt ="MatRogax-Js"    height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align = "center"  alt ="MatRogax-Ruby"  height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+    <img align = "center"  alt="MatRogax-ADVPL"     height="30" width="30"  src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_advpl_icon_130762.png" />
+    <img align = "center"  alt="MatRogax-C#"        height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img align = "center"  alt="MatRogax-Python"    height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+    <img align = "center"  alt="MatRogax-C"         height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align = "center"  alt="MatRogax-sql"       height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+    <img align = "center"  alt="MatRogax-html"      height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align = "center"  alt="MatRogax-css"       height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align = "center"  alt ="MatRogax-Js"       height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align = "center"  alt ="MatRogax-Ruby"     height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+    <img align = "center"  alt ="MatRogax-flutter"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+    <img align = "center"  alt ="MatRogax-flutter"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />
+          
+    
+          
    
  
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
