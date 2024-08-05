@@ -22,11 +22,9 @@
     <img align = "center"  alt="MatRogax-css"       height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align = "center"  alt ="MatRogax-Js"       height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align = "center"  alt ="MatRogax-Ruby"     height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-    <img align = "center"  alt ="MatRogax-Rails"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+    <img align = "center"  alt ="MatRogax-Rails"    height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
     <img align = "center"  alt ="MatRogax-flutter"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain.svg" />
-          
-    
-          
+    <img align = "center"  alt ="MatRogax-nodejs"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
    
  
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -42,21 +40,19 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![sqlite](https://img.shields.io/badge/SQLite-F7DF1E?style=for-the-badge&logo=sqlite&logoColor=blue)&nbsp;
   
+  
+  
 
 
   #### Studying in this moment
   
   ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-  ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![OnRails](https://img.shields.io/badge/-On_Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=red&labelColor=0D1117)&nbsp; 
+  ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![Nest.JS](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs&logoColor=red&labelColor=0D1117&textColor=0D1117)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&logoColor=blue&labelColor=0D1117)&nbsp; 
   ![flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=0D1117)&nbsp; 
-
- 
-
-   
-          
-              
+  ![OnRails](https://img.shields.io/badge/-On_Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=red&labelColor=0D1117)&nbsp; 
+      
 </div>
 
  <div>
