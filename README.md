@@ -41,18 +41,12 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
   ![sqlite](https://img.shields.io/badge/SQLite-F7DF1E?style=for-the-badge&logo=sqlite&logoColor=blue)&nbsp;
   
-  
-  
-
-
   #### Studying in this moment
   
-  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-  ![Nest.JS](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs&logoColor=red&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=0D1117)&nbsp;
-  ![Django](https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=Django&logoColor=green&labelColor=0D1117)&nbsp; 
   ![OnRails](https://img.shields.io/badge/-On_Rails-0D1117?style=for-the-badge&logo=rubyonrails&logoColor=red&labelColor=0D1117)&nbsp; 
+  ![Nest.JS](https://img.shields.io/badge/-Nest.js-0D1117?style=for-the-badge&logo=nestjs&logoColor=red&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![Dotnet](https://img.shields.io/badge/-Dotnet-0D1117?style=for-the-badge&logo=dotnet&logoColor=purple&labelColor=0D1117)&nbsp; 
+  ![flutter](https://img.shields.io/badge/-flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=blue&labelColor=0D1117)&nbsp;
       
 </div>
 
