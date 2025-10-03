@@ -63,10 +63,9 @@
   <a href="https://instagram.com/matheusrogato_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-rogato-9854b8233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://portfolio-ftn14umzs-matheus-rogatos-projects.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=devdotto&logoColor=white" alt="Portfólio">
+  <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logoColor=white" alt="Portfólio">
 </a>
-
- </div>
+</div>
  
 
   
